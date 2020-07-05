@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230411378745",
+    "firebase_url": "https://notificacion-a6e55.firebaseio.com",
+    "project_id": "notificacion-a6e55",
+    "storage_bucket": "notificacion-a6e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230411378745:android:1230f55be249aed8076de8",
+        "android_client_info": {
+          "package_name": "com.sargis.prueba1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230411378745-ddbqvf3am0nrg3t2783d1l3t8h1a9bvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sargis.prueba1",
+            "certificate_hash": "ce61e0093faa28aa851f9825170ee40af2a789bc"
+          }
+        },
+        {
+          "client_id": "230411378745-fk3n94fcgpg1cqj2gs29tq0jt7mqc7jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn446nkN4vYK4n--QJJ7gLe_Nwj6tr_lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230411378745-fk3n94fcgpg1cqj2gs29tq0jt7mqc7jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
